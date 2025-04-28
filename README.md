@@ -43,8 +43,5 @@ Manual attendance in university classes is time-consuming and error-prone. An au
 - Camera capture saves images locally for processing.
 - Further integration needed to connect recognition results to attendance logging.
 
-## Demo
-Run the Flask app and camera capture script to test the system.
-
 ## License
 MIT License
