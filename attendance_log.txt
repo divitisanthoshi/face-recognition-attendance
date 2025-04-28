@@ -1,0 +1,59 @@
+2025-04-29 00:37:09 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:37:10 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:37:11 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:37:11 - Deep learning - Omkarini 160123748304
+2025-04-29 00:37:13 - Deep learning - Krishnaveni 160123771305
+2025-04-29 00:37:13 - Deep learning - Omkarini 160123748304
+2025-04-29 00:37:14 - Deep learning - Shreeya 160123771302
+2025-04-29 00:37:15 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:37:15 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:37:16 - Deep learning - Santhoshi 160122771003
+2025-04-29 00:40:25 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:27 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:27 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:28 - Deep Learning - Omkarini 160123748304
+2025-04-29 00:40:29 - Deep Learning - Krishnaveni 160123771305
+2025-04-29 00:40:30 - Deep Learning - Omkarini 160123748304
+2025-04-29 00:40:31 - Deep Learning - Shreeya 160123771302
+2025-04-29 00:40:32 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:32 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:33 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:40:34 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:42:57 - Unknown - Santhoshi 160122771003
+2025-04-29 00:43:11 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:45:04 - Unknown - Santhoshi 160122771003
+2025-04-29 00:45:18 - Deep Learning - Santhoshi 160122771003
+2025-04-29 00:47:57 - Unknown - Krishnaveni 160123771305
+2025-04-29 00:56:01 - Unknown - Shreeya 160123771302
+2025-04-29 00:56:18 - Machine Learning - Shreeya 160123771302
+2025-04-29 00:56:37 - Machine Learning - Shreeya 160123771302
+2025-04-29 00:56:41 - Machine Learning - Shreeya 160123771302
+2025-04-29 00:57:23 - Unknown - Shreeya 160123771302
+2025-04-29 00:57:41 - Machine Learning - Shreeya 160123771302
+2025-04-29 01:47:19 - Unknown - Santhoshi 160122771003
+2025-04-29 01:47:42 - IIoT - Santhoshi 160122771003
+2025-04-29 01:49:40 - Unknown - Santhoshi 160122771003
+2025-04-29 01:50:04 - DL - Santhoshi 160122771003
+2025-04-29 01:54:59 - Unknown - Santhoshi 160122771003
+2025-04-29 01:57:01 - AI - Santhoshi 160122771003
+2025-04-29 01:58:56 - Unknown - Santhoshi 160122771003
+2025-04-29 01:59:19 - AI - Santhoshi 160122771003
+2025-04-29 02:00:40 - AI - Santhoshi 160122771003
+2025-04-29 02:01:24 - Unknown - Santhoshi 160122771003
+2025-04-29 02:01:48 - AI - Santhoshi 160122771003
+2025-04-29 02:04:24 - Unknown - Santhoshi 160122771003
+2025-04-29 02:04:56 - IVA - Santhoshi 160122771003
+2025-04-29 02:08:46 - DL - Santhoshi 160122771003
+2025-04-29 02:09:48 - DL - Santhoshi 160122771003
+2025-04-29 02:12:41 - Unknown - Santhoshi 160122771003
+2025-04-29 02:12:59 - IVA - Santhoshi 160122771003
+2025-04-29 02:15:11 - Unknown - Santhoshi 160122771003
+2025-04-29 02:15:44 - Cyber Security - Santhoshi 160122771003
+2025-04-29 02:17:11 - Unknown - Santhoshi 160122771003
+2025-04-29 02:18:49 - Unknown - Santhoshi 160122771003
+2025-04-29 02:20:09 - Unknown - Santhoshi 160122771003
+2025-04-29 02:20:44 - Ethical Hacking - Santhoshi 160122771003
+2025-04-29 02:21:53 - Unknown - Omkarini 160123748304
+2025-04-29 02:22:45 - Ethical Hacking - Omkarini 160123748304
+2025-04-29 02:23:43 - Unknown - Omkarini 160123748304
+2025-04-29 02:24:21 - Ethical Hacking - Omkarini 160123748304

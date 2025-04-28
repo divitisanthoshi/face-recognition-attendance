@@ -1,0 +1,8 @@
+# Ignore dataset and captured images for privacy
+dataset/
+captured_images/
+
+# Python cache and environment
+__pycache__/
+*.pyc
+.venv311/
